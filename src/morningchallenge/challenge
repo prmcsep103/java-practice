@@ -1,0 +1,55 @@
+Challenge-1.
+
+Write a java program using the following requirement.
+1.Create a Java class with name 'Challenge1'
+2.Create a main method.
+3.Declare the Two String type variables with names 'name' and 'message' and assign value is
+  'name'= 'Your name(Jay)' and 'message'= 'Good Morning'
+4.Print the following message using above variables, println statements and Concatenation.
+
+  'Hi Jay'
+  'Good Morning'
+--------------------------------------------------------------------------------------------------
+Challenge-2.
+
+Write a java program using the following
+requirement.
+1.Create a Java class with name 'Challenge2'
+2.Create a main method.
+3.Declare the Two int type variables with
+  names 'num1' and 'num2' and assign
+  value is 'num1'= '10' and
+  'num2'= '20'
+4.Create a method it's take two int type params
+  and no return the value with name productOfTwoNumber()
+  Print the product of Two Number like output
+5.Call productOfTwoNumber() Method in to main method with
+  help of Object.
+
+Output:
+  10 X 20 = 200
+---------------------------------------------------------------------------------------------------
+Challenge-3
+
+Write a java program using the following requirement.
+1.Create a Java class with name 'Challenge3'
+2.Declare two int type instance variables with name 'eId' and 'deptNo'
+3.Declare two String type instance variables with name 'eName' and 'job'
+4.Create a Constructor to assign the values of Variable.
+5.Create a instance no return type no parameter method with name 'display' and call all
+  four variables inside the display method inside the sout statements.
+6.Create a class with name 'Main' and declare the main method
+7.Create a object with name 'emp1' and call all four variable and assign
+  the values for each variable and call the display method
+8.Create a object with name 'emp2' and call all four variable and assign
+  the values for each variable and call the display method
+
+Output:
+101
+John
+10
+Manual Tester
+102
+Smith
+11
+Automation Tester

@@ -23,4 +23,5 @@ public class Challenge3 {
         System.out.println(deptNo);
         System.out.println(job);
     }
+
 }
